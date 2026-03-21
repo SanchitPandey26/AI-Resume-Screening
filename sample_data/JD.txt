@@ -1,0 +1,86 @@
+About Innovate
+
+At Innovate, we believe data should fuel business success. Innovate's AI-powered data unification and management capabilitiesencompassing entity resolution, multi-domain master data management (MDM), and data productstransform siloed data from disparate sources into unified, trusted, and interoperable data. The Innovate Connected Data Platform delivers interoperable data where and when it's needed, empowering data and analytics leaders with unparalleled business responsiveness. Leading enterprise brands across multiple industries around the globe rely on our award-winning data unification and cloud-native MDM capabilities to improve efficiency, manage risk, and drive growth.
+
+Our values guide everything we do: Customer First, Better Together, Simplify and Share, Own It, and Always Better Than Yesterday. If you share and embody these values, we invite you to join us.
+
+Engineering Internship Innovate (An overview)
+
+Innovate is looking for motivated and detail-oriented Engineering Interns to join our engineering teams. During this internship, you will gain hands-on experience across different stages of the Software Development Life Cycle (SDLC), including:
+
+Software Development
+Quality Engineering (QA)
+DevOps
+Release Management
+At Innovate, we believe engineers should understand how products are built end-to-end. This internship will give you exposure to real projects, modern technologies, and cross-functional collaboration from development to deployment.
+
+You will work in at least one of the roles listed above, and depending on team needs, you may get the opportunity to contribute across multiple areas. This approach reflects the evolving industry trend where traditional role boundaries between developer, QA, and DevOps are becoming more integrated.
+
+Our goal is to help you build strong technical foundations, practical problem-solving skills, and a holistic understanding of how engineering teams deliver real-world products.
+
+What You'll Do
+
+AI Software Development
+
+Design, develop, and maintain software applications and scripts in collaboration with cross-functional engineering teams.
+Translate user requirements into technical specifications and contribute to architecture discussions.
+Participate in live project and team discussions, completing assigned tasks on time.
+Document software functionalities and development processes.
+Complete a final internship project under close mentorship.
+Quality Engineering (QA Automation)
+
+Assist in designing, developing, and maintaining automated test scripts for various product features.
+Identify test cases suitable for automation in collaboration with the QE team.
+Execute automated test cases, analyze results, and report defects.
+Enhance and optimize existing test automation frameworks.
+Participate in code reviews and contribute to improving coding standards and best practices.
+Document test plans, test cases, and test results clearly and accurately.
+DevOps
+
+Exposure to multi-cloud environments (AWS, Azure, GCP) within the Innovate infrastructure.
+Assist in the development and maintaining of CI/CD pipelines using ArgoCD and Jenkins to streamline deployment, testing, and operational workflows .
+Implement and manage infrastructure as code using tools like Terraform or Crossplane .
+Contribute to creating, updating, and optimizing Helm charts for Kubernetes-based application deployments.
+Write and maintain Python scripts for automation tasks related to system administration and deployment.
+Monitor system performance, troubleshoot cloud environment issues, and implement solutions to improve reliability and efficiency.
+Support the optimization and automation of Linux-based tasks.
+Release Management
+
+Manage release cycles and emergency bug fixes to streamline and automate software delivery pipelines.
+Assist in designing, implementing, and maintaining CI/CD workflows to support a growing business.
+Develop and implement tools and solutions for migration and acceptance testing.
+Assist in maintaining scalable and reliable platform infrastructure.
+Support security and privacy standards to meet certification requirements.
+Identify and act on opportunities to improve and simplify infrastructure for a better customer experience.
+What You Bring
+
+Required:
+
+Currently pursuing a Bachelor's or Master's degree in Computer Science, Software Engineering, Information Technology, or a related field.
+Solid understanding of computer science fundamentals and software development principles.
+Proficiency in at least one programming language: Java, Python, C++, JavaScript, or similar.
+Familiarity with Linux/Unix systems and shell scripting.
+Understanding of version control systems (e.g., Git).
+Basic understanding of software testing principles and methodologies.
+Familiarity with cloud platforms such as AWS, Azure, or Google Cloud.
+Strong analytical, problem-solving, and communication skills.
+Ability to work proactively with minimal supervision and thrive in a fast-paced environment.
+Eagerness to learn, be coached, and adapt to new concepts and technologies.
+Comfortable to learn and employ AI tools during development, testing, deployment and release areas of the project.
+Nice to Have:
+
+Familiarity with ML development and related projects
+Experience with test automation frameworks such as Selenium, JUnit, or TestNG.
+Hands-on knowledge of CI/CD and automation tools such as Jenkins, Docker, or Kubernetes.
+Experience with infrastructure-as-code tools like Terraform or Ansible.
+Familiarity with monitoring tools such as Prometheus or Grafana.
+Familiarity working with any of the Cloud ecosystems like AWS, AZURE or GCP.
+What You'll Gain
+
+Hands-on experience using AI-based tools across software development, QA automation, DevOps, and release engineering.
+Leverage AI tools to accelerate coding, troubleshooting, documentation, and automation tasks
+Deep understanding of Innovate's products and the Connected Data Platform.
+Mentorship from experienced engineers and industry professionals.
+Exposure to cutting-edge technologies including Kubernetes, CI/CD pipelines, and multi-cloud infrastructure.
+A transparent, meritocratic, and collaborative work culture.
+Potential for future full-time career opportunities at Innovate.
