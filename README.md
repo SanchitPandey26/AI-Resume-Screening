@@ -17,7 +17,7 @@ Upload a job description and up to 10 resumes. The system:
 
 ## Demo
 
-> Streamlit Cloud deployment link here
+> https://ai-resume-screening-nutrabay.streamlit.app/
 
 ## Sample Output
 
@@ -103,7 +103,7 @@ Resume-Screening/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/SanchitPandey26/Resume-Screening.git
+git clone https://github.com/SanchitPandey26/AI-Resume-Screening.git
 cd Resume-Screening
 ```
 
